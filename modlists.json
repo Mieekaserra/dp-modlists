@@ -5,7 +5,8 @@
     "author": "Dylan Perry \u0026 Wildlander Team",
     "maintainers": [
       "github/dylan-perry",
-      "github/Wildlander-mod"
+      "github/Wildlander-mod",
+      "github/Mieekaserra"
     ],
     "game": "skyrimspecialedition",
     "official": false,
@@ -25,7 +26,8 @@
       "readme": "https://www.wildlandermod.com/download",
       "download": "https://authored-files.wabbajack.org/Wildlander.wabbajack_f8b123b3-07d7-48cf-a299-9f303ac53b7a",
       "machineURL": "wildlander",
-      "discordURL": "https://discord.gg/Gs3z7z3Buq"
+      "discordURL": "https://discord.gg/Gs3z7z3Buq",
+      "websiteURL": "https://lorerim.com/"
     },
     "download_metadata": {
       "Hash": "W0QdgOiliHE=",
